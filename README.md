@@ -4,9 +4,9 @@
 
 # Análise e Predição do Absenteísmo em Consultas Médicas
 
-[![Kaggle](https://raw.githubusercontent.com/RyanSaul85/Medical_No_Shows/Medical_No_Shows_Project/KaggleV2-May-2016.csv)]()
-[![Estatística descritiva](https://colab.research.google.com/drive/1O4C8f0gfvjE8dX9hAqYSN7YPe9q4cZy5#scrollTo=4W6nwnVT3Uj5)]()
-[![Machine Learning](https://colab.research.google.com/drive/10c4YzZnTqbHAaHGrF8DrqiGlYejQ9gO8?usp=sharing)]()
+[Kaggle – Base de Dados](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
+[Estatística Descritiva – Google Colab](https://colab.research.google.com/drive/1O4C8f0gfvjE8dX9hAqYSN7YPe9q4cZy5)
+[Machine Learning – Google Colab](https://colab.research.google.com/drive/10c4YzZnTqbHAaHGrF8DrqiGlYejQ9gO8)
 
 ## 📌 Visão Geral
 Este projeto investiga o absenteísmo em consultas médicas utilizando dados públicos do Kaggle (110 mil registros).  
