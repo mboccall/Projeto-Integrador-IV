@@ -4,8 +4,8 @@
 
 # Análise e Predição do Absenteísmo em Consultas Médicas
 
-[Kaggle – Base de Dados](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
-[Estatística Descritiva – Google Colab](https://colab.research.google.com/drive/1O4C8f0gfvjE8dX9hAqYSN7YPe9q4cZy5)
+[Kaggle – Base de Dados](https://www.kaggle.com/datasets/joniarroba/noshowappointments)<br><br>
+[Estatística Descritiva – Google Colab](https://colab.research.google.com/drive/1O4C8f0gfvjE8dX9hAqYSN7YPe9q4cZy5)<br><br>
 [Machine Learning – Google Colab](https://colab.research.google.com/drive/10c4YzZnTqbHAaHGrF8DrqiGlYejQ9gO8)
 
 ## 📌 Visão Geral
