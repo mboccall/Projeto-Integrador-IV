@@ -6,7 +6,8 @@
 
 [Kaggle – Base de Dados](https://www.kaggle.com/datasets/joniarroba/noshowappointments)<br><br>
 [Estatística Descritiva – Google Colab](https://colab.research.google.com/drive/1O4C8f0gfvjE8dX9hAqYSN7YPe9q4cZy5)<br><br>
-[Machine Learning – Google Colab](https://colab.research.google.com/drive/10c4YzZnTqbHAaHGrF8DrqiGlYejQ9gO8)
+[Machine Learning – Google Colab](https://colab.research.google.com/drive/10c4YzZnTqbHAaHGrF8DrqiGlYejQ9gO8)<br><br>
+[Página da internet](file:///C:/Users/USER/Documents/Git/pi/Projeto-Integrador-IV/index.html)
 
 ## 📌 Visão Geral
 Este projeto investiga o absenteísmo em consultas médicas utilizando dados públicos do Kaggle (110 mil registros).  
